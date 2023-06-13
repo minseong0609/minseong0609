@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Python-#E34F26?style=flat-square&logo=Html&logoColor=white"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=CSS&logoColor=white"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Html5-#E34F26?style=flat-square&logo=CSS&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Javascript&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Mysql&logoColor=white"/></a>
